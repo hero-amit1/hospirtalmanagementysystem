@@ -223,3 +223,4 @@ The following were hardened in this workspace:
 - `Unknown database 'myhmsdb'`: create/import DB from `myhmsdb.sql`
 - `php not recognized`: add `C:\xampp\php` to PATH
 - White screen or fatal error: check Apache/PHP logs and run PHP lint command above
+# hosiptal
